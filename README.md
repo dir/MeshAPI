@@ -46,7 +46,7 @@ $ python main.py
 Vaguely, you need to view the network requests of your mobile device and get it from there.
 
 3. What are the x-api-keys?
-The x-api-key allows you to change the script to work for other websites besides Footpatrol (but you need to do a bit more than just change that). I thought I'd make it a variable incase they ever change it.
+The x-api-key allows you to change the script to work for other websites besides the ones specified (but you need to do a bit more than just change that). I thought I'd make it a variable incase they ever change it.
 
 ## Todos
  * Web based GUI
